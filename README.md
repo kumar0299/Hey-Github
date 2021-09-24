@@ -3,7 +3,7 @@
 It is my first Github repository.
 
 Hola!!!
-I am manjeet kumar, I am a beginner into the coding world so please ignore my mistakes like how u ignore for your younger siblings.
-Now i do not have anything to tell so bye.
+My name is manjeet kumar, I am a beginner into the coding world.
+Now i do not have anything to tell you so bye take care.
 
-Thanks yous (just for formality)
+Thank yous (just for formality)
